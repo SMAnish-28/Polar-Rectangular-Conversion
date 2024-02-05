@@ -23,7 +23,7 @@ In many calculators, there is already an inbuilt function for this conversion of
 
 [![Done](https://img.shields.io/badge/Build-Passing-brightgreen)] 
 
-[![Sk Mahammad Anish](https://img.shields.io/badge/Your%20Name-Badge-blue)] (https://twitter.com/me_smanish/)
+[![Sk Mahammad Anish](https://img.shields.io/badge/Name-Sk_Mahammad_Anish-blue)] (https://twitter.com/me_smanish/)
 
 <!-- ![Failing](https://img.shields.io/badge/Build-Failing-red) ![In Progress](https://img.shields.io/badge/Build-In%20Progress-orange) -->
 
