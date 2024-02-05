@@ -1,7 +1,7 @@
 # Polar-Rectangular-Conversion
 
 This Repo is for Conversion of Polar form to rectangular form and vice-versa.
-In many calculators, there is already an inbuilt function for this conversion of Polar to Rectangular or Rectangular to Polar.
+In many calculators, there is already an inbuilt function for this conversion of Polar to Rwctangular or Rectangular to Polar.
 
 # Calculator Functions
 
@@ -16,8 +16,7 @@ In many calculators, there is already an inbuilt function for this conversion of
 
 > C++
 
+<a href="https://twitter.com/me_smanish"><img src="https://th.bing.com/th/id/OIP.7jw1UaY3rxZk2Dg78b6WyQAAAA?rs=1&pid=ImgDetMain" alt="logo" style="width: 33%; height: 67%; border-radius: 20px !important;"></a>
 
-
-[![N|Solid](https://th.bing.com/th/id/OIP.7jw1UaY3rxZk2Dg78b6WyQAAAA?rs=1&pid=ImgDetMain)](https://twitter.com/me_smanish){:style="border-radius: 20px !important;" height="67%" width="33%"}
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
