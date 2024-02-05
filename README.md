@@ -18,8 +18,6 @@ In many calculators, there is already an inbuilt function for this conversion of
 
 
 
-<!-- [![N|Solid](https://th.bing.com/th/id/OIP.7jw1UaY3rxZk2Dg78b6WyQAAAA?rs=1&pid=ImgDetMain)](https://twitter.com/me_smanish) -->
-
-<a href="https://twitter.com/me_smanish"><img src="https://th.bing.com/th/id/OIP.7jw1UaY3rxZk2Dg78b6WyQAAAA?rs=1&pid=ImgDetMain" alt="logo" width="33%" height="67%"></a>
+[![N|Solid](https://th.bing.com/th/id/OIP.7jw1UaY3rxZk2Dg78b6WyQAAAA?rs=1&pid=ImgDetMain){:height="67%" width="33%"}](https://twitter.com/me_smanish)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
