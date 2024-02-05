@@ -3,7 +3,7 @@
 This Repo is for Conversion of Polar form to rectangular form and vice-versa.
 In many calculators, there is already an inbuilt function for this conversion of Polar to Rwctangular or Rectangular to Polar.
 
-#Calculator Functions
+# Calculator Functions
 
 - For fx-991MS, above ‘+’ & ‘-‘ there is a function of ‘r∠θ -> pol(‘ &’a+bi -> rec(’ respectively
 - For fx-82MS, there separate button for pol( and  rec(, near the ON button.
