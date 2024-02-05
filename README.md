@@ -1,12 +1,12 @@
 # Polar-Rectangular-Conversion
 
 This Repo is for Conversion of Polar form to rectangular form and vice-versa.
-In many calculators, there is already an inbuilt function for this conversion of Polar to Rwctangular or Rectangular to Polar.
+In many calculators, there is already an inbuilt function for this conversion of Polar to Rectangular or Rectangular to Polar.
 
 # Calculator Functions
 
-- For fx-991MS, above ‘+’ & '-' there is a function of ‘r∠θ -> pol(' & 'a+bi -> rec(’ respectively
-- For fx-82MS, there separate button for pol( and  rec(, near the ON button.
+- For _fx-991MS_, above ‘+’ & '-' there is a function of ‘r∠θ -> pol(' & 'a+bi -> rec(’ respectively
+- For _fx-82MS_, there separate button for pol( and  rec(, near the ON button.
 
 # Usage:
 
@@ -16,6 +16,10 @@ In many calculators, there is already an inbuilt function for this conversion of
 
 > C++
 
-[![N|Solid](https://th.bing.com/th/id/OIP.7jw1UaY3rxZk2Dg78b6WyQAAAA?rs=1&pid=ImgDetMain)](https://twitter.com/me_smanish)
+
+
+<!-- [![N|Solid](https://th.bing.com/th/id/OIP.7jw1UaY3rxZk2Dg78b6WyQAAAA?rs=1&pid=ImgDetMain)](https://twitter.com/me_smanish) -->
+
+<a href="https://twitter.com/me_smanish"><img src="https://th.bing.com/th/id/OIP.7jw1UaY3rxZk2Dg78b6WyQAAAA?rs=1&pid=ImgDetMain" alt="logo" width="33%" height="67%"></a>
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
