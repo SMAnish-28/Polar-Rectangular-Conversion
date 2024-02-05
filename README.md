@@ -20,4 +20,6 @@ In many calculators, there is already an inbuilt function for this conversion of
 
 
 <!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
-Build Status: ![Passing](https://img.shields.io/badge/Build-Passing-brightgreen) ![Failing](https://img.shields.io/badge/Build-Failing-red) ![In Progress](https://img.shields.io/badge/Build-In%20Progress-orange)
+
+![Done](https://img.shields.io/badge/Build-Passing-brightgreen) 
+<!-- ![Failing](https://img.shields.io/badge/Build-Failing-red) ![In Progress](https://img.shields.io/badge/Build-In%20Progress-orange) -->
