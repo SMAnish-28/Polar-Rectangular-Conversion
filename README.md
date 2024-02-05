@@ -10,7 +10,7 @@ In many calculators, there is already an inbuilt function for this conversion of
 
 # Usage:
 
-- For AC Circuit Analysis, Z = R + jXL or Z = R – jX<sub>C</sub> or Z = R + j(X<sub>L</sub> – X<sub>C</sub>), these are the complex rectangular form for circuit impedance which we have to convert into polar form to get its magnitude and phase angle at once, or sometimes polar forms to its rectangular forms, for calculation purposes. 
+- For AC Circuit Analysis, Z = R + jX<sub>L</sub> or Z = R – jX<sub>C</sub> or Z = R + j(X<sub>L</sub> – X<sub>C</sub>), these are the complex rectangular form for circuit impedance which we have to convert into polar form to get its magnitude and phase angle at once, or sometimes polar forms to its rectangular forms, for calculation purposes. 
 
 ## Languages Used
 
