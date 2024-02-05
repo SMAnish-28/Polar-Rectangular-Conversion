@@ -16,12 +16,14 @@ In many calculators, there is already an inbuilt function for this conversion of
 
 > C++
 
-<a href="https://twitter.com/me_smanish"><img src="https://th.bing.com/th/id/OIP.7jw1UaY3rxZk2Dg78b6WyQAAAA?rs=1&pid=ImgDetMain" alt="logo" style="width: 33%; height: 67%; border-radius: 20px !important;"></a>
+<!-- <a href="https://twitter.com/me_smanish"><img src="https://th.bing.com/th/id/OIP.7jw1UaY3rxZk2Dg78b6WyQAAAA?rs=1&pid=ImgDetMain" alt="logo" style="width: 33%; height: 67%; border-radius: 20px !important;"></a> -->
 
 
 <!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
 
-![Done](https://img.shields.io/badge/Build-Passing-brightgreen) 
+![Done](https://img.shields.io/badge/Build-Passing-brightgreen) (https://twitter.com/me_smanish/)
+
 <!-- ![Failing](https://img.shields.io/badge/Build-Failing-red) ![In Progress](https://img.shields.io/badge/Build-In%20Progress-orange) -->
 
-[C++](https://cplusplus.com/)
+<!-- [C++](https://cplusplus.com/) -->
+
